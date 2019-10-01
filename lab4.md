@@ -41,12 +41,12 @@ $ cd Downloads
 What is a tar.gz file? You can think of it simply as a zip file. It compresses folders and/or files into something smaller so that they can be sent more easily. Of course, that means that we need to expand or 'unzip' this tar.gz file.
 
 ```
-$ tar zxvf linux-exercise.tar.gz
+$ tar xvf linux-exercise.tar.gz
 ```
 
 ## Exercise 1: Moving around
 
-Use the `ls` and `cd` commands to move around the directory tree. If you encounter more tar.gz files, extract them using `tar zxvf` as before.
+Use the `ls` and `cd` commands to move around the directory tree. If you encounter more tar.gz files, extract them using `tar xvf` as before.
 
 ## Exercise 2: Grep
 
